@@ -1,0 +1,21 @@
+body{
+   
+    background-repeat: no-repeat;
+    text-align: center;
+    align-items: center;
+}
+
+.elencos{
+    margin-top: -30px;
+    
+}
+
+a{
+    color: #DCD2D2;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.voltar{
+    margin-top: -30px;
+}
